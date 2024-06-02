@@ -18,8 +18,8 @@ Com base no vídeo de lançamento do iPhone, elabore em uma ferramenta de UML de
  <br> <br>
 
 ## 📁 Estrutura/
-- [DesafioIphone]
-- Diagrama de Classes.
+- [src] código do fonte 
+- Diagrama de Classes listado abaixo.
 - ```README.md```  Informações do projeto.  
 ## 📍 Instruções 
 
