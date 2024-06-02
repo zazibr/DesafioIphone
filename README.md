@@ -62,7 +62,7 @@ classDiagram
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   
 ## 🔗 Referências
-- Videoaulas do Bootcamp Coding The Future Avanade - .NET Developer. na plataforma da DIO
+- Videoaulas do Bootcamp Desenvolvimento Java com IA na plataforma da DIO
 
 
 ## ✅ Feedback
